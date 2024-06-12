@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\super_gradients",
+    "\\src\\super_gradients\\training",
+    "\\src\\super_gradients\\training\\models",
+    "\\src\\super_gradients\\training\\models\\detection_models",
+    "\\src\\super_gradients\\training\\models\\detection_models\\pp_yolo_e",
+    "\\src\\super_gradients\\training\\models\\detection_models\\yolo_nas",
+    "\\tests"
+  ],
+  "PreviewInSolutionExplorer": false
+}
